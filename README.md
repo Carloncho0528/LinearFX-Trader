@@ -1,4 +1,7 @@
-📊 LinearFX Trader - La Evolución del Trading Algorítmico
+Usar unicamente en cuentas demo para verificar su funcionamiento 
+El riesgo es unicamente suyo asi como las perdidas 
+
+LinearFX Trader - La Evolución del Trading Algorítmico
 🔥 Características Principales:
 
 Análisis predictivo basado en regresión lineal avanzada
